@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/bishop.obj-75660f96d3b53660dc5ae8f877e4d0a8.mesh"
+
+[deps]
+
+files=[ "res://.import/bishop.obj-75660f96d3b53660dc5ae8f877e4d0a8.mesh" ]
+
+source_file="res://game_pieces/bishop.obj"
+dest_files=[ "res://.import/bishop.obj-75660f96d3b53660dc5ae8f877e4d0a8.mesh", "res://.import/bishop.obj-75660f96d3b53660dc5ae8f877e4d0a8.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286
